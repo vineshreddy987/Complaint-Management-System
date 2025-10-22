@@ -11,7 +11,7 @@ SECRET_KEY = '$!@%0u0@m&x85($hsavn*qrcq54)=4a+f8!n#sgs1ko-8q+&mt'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['complaint-management-system-2cn4.onrender.com', 'localhost', '127.0.0.1']
 
 INSTALLED_APPS = [
     'ComplaintMS',
